@@ -1,0 +1,10 @@
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.csproj.AssemblyReference.cache
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.Properties.Resources.resources
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.csproj.GenerateResource.cache
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.csproj.CoreCompileInputs.cache
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.Form1.resources
+C:\Users\Birce\source\repos\InClass_4\InClass_4\bin\Debug\InClass_4.exe.config
+C:\Users\Birce\source\repos\InClass_4\InClass_4\bin\Debug\InClass_4.exe
+C:\Users\Birce\source\repos\InClass_4\InClass_4\bin\Debug\InClass_4.pdb
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.exe
+C:\Users\Birce\source\repos\InClass_4\InClass_4\obj\Debug\InClass_4.pdb
