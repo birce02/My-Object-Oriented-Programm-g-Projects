@@ -1,0 +1,11 @@
+D:\visualstudio\c#\152120241075_OOP2__Lab1\bin\Debug\152120241075_OOP2__Lab1.exe.config
+D:\visualstudio\c#\152120241075_OOP2__Lab1\bin\Debug\152120241075_OOP2__Lab1.exe
+D:\visualstudio\c#\152120241075_OOP2__Lab1\bin\Debug\152120241075_OOP2__Lab1.pdb
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.csproj.AssemblyReference.cache
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\_152120241075_OOP2__Lab1.Form1.resources
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\_152120241075_OOP2__Lab1.Properties.Resources.resources
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.csproj.GenerateResource.cache
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.csproj.CoreCompileInputs.cache
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.exe
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.pdb
+D:\visualstudio\c#\152120241075_OOP2__Lab1\obj\Debug\152120241075_OOP2__Lab1.exe.config
